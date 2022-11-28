@@ -1,10 +1,11 @@
 com\jeugenedev\status_music\controller\StatusController.class
+com\jeugenedev\status_music\repos\StatusSessionRepos.class
+com\jeugenedev\status_music\App.class
 com\jeugenedev\status_music\utils\StringGenerator$1Range.class
+com\jeugenedev\status_music\controller\DownloadController.class
 com\jeugenedev\status_music\entity\StatusSession.class
 com\jeugenedev\status_music\utils\AlgoEncoder.class
 com\jeugenedev\status_music\controller\StatusSessionController.class
 com\jeugenedev\status_music\model\StatusSessionModel.class
-com\jeugenedev\status_music\repos\StatusSessionRepos.class
 com\jeugenedev\status_music\utils\StringGenerator.class
-com\jeugenedev\status_music\App.class
 com\jeugenedev\status_music\model\StatusModel.class
