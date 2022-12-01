@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.io.InputStream;
 
 @RestController
-@RequestMapping("/download/files")
+@RequestMapping("/download-server/download/files")
 public class DownloadController {
     @RequestMapping(value = "/file/v1/apk/streammusic/get/streammusic-v1.apk", method = {RequestMethod.GET, RequestMethod.POST})
     public void apk(HttpServletResponse response) throws IOException {
